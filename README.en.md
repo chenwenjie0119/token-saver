@@ -143,7 +143,6 @@ proxy:
 
 - Token estimation is approximate (Chinese ~1 token/char, English ~1 token/4 chars); actual counts depend on the model tokenizer.
 - The proxy mode and client mode can be enabled simultaneously.
-- By default, this project does **not** push to git; initialize the repository after your own confirmation.
 
 ## License
 
